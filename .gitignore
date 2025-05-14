@@ -2,7 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-
+/.idea/
+/selenium/JavaSDET/data_type.java/
 ### Eclipse ###
 .apt_generated
 .classpath
